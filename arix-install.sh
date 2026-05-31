@@ -13,7 +13,7 @@ cd /var/www/pterodactyl || { echo "Error: /var/www/pterodactyl folder not found!
 
 # 2. GitHub se Zip file download karna aur Unzip karna
 echo "-> Downloading and extracting theme files..."
-wget -q https://raw.githubusercontent.com/sdgamer8263-sketch/pterodactyl_extention1/main/pterodactyl.zip -O pterodactyl.zip
+wget -q https://github.com/ArainCloud07/arix-craked/main/pterodactyl.zip -O pterodactyl.zip
 
 unzip -o pterodactyl.zip
 
