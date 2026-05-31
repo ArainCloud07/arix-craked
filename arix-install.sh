@@ -2,10 +2,10 @@
 
 set -e 
 
-echo "=========================================="
-echo "  Arix Theme Auto-Installer Script"
-echo "  Starting Installation..."
-echo "=========================================="
+echo "================================================"
+echo "   Arix Theme Auto-Installer Script by Shubham"
+echo "   Starting Installation..."
+echo "================================================"
 apt install wget
 
 cd /var/www/pterodactyl || { echo "Error: /var/www/pterodactyl folder not found!"; exit 1; }
